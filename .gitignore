@@ -1,0 +1,16 @@
+/target/
+logs/
+.idea/
+.mvn/
+todoapp.iml
+upload/
+.project
+.settings
+*.DS_Store
+deploy
+*.iml
+/out/
+/tmp/
+./velocity.log
+velocity.*
+
